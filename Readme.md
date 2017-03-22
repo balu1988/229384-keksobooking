@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Сардор Акрамов](https://up.htmlacademy.ru/javascript/9/user/229384).
-* Наставник: `Неизвестно`.
+* Наставник: [Без наставника].
 
 ---
 
